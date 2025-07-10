@@ -2,7 +2,7 @@
   if (window.daiFinalScriptLoaded) return;
   window.daiFinalScriptLoaded = true;
 
-  const fastSpeed = 60;
+  const fastSpeed = 100;
   const oSetTimeout = window.setTimeout;
   const oSetInterval = window.setInterval;
 
