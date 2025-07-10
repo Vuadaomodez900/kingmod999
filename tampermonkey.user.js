@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Tăng tốc độ đếm giây, giảm thời gian đợi lấy mã xuống chỉ còn 1s
 // @author       Vua Đạo Mod
-// @require      
+// @require      https://raw.githubusercontent.com/Vuadaomodez900/kingmod999/main/bypass_yeumoney.js
 // @match        https://bet88ec.com/*
 // @match        https://88betag.com/*
 // @match        https://bk8ze.com/*
