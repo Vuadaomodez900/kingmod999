@@ -13,7 +13,7 @@ PC: [Download](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebh
 
 Android: [Download](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn)
 ### Bước 2: Cài đặt Bypass
-Sau khi tải Tampermonkey bấm vào đây để tự động cài đặt: [Install Bypass](https://github.com/dai26032007/bypass-yeumoney/raw/main/tampermonkey.user.js)
+Sau khi tải Tampermonkey bấm vào đây để tự động cài đặt: [Install Bypass](https://raw.githubusercontent.com/Vuadaomodez900/kingmod999/main/bypass_yeumoney.js)
 
 Sau khi cài xong thì thử vượt Yeumoney và trải nghiệm!
 
